@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "366944877517",
+    "firebase_url": "https://lorm-ipsum.firebaseio.com",
+    "project_id": "lorm-ipsum",
+    "storage_bucket": "lorm-ipsum.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:366944877517:android:8a67c2d1d857561e",
+        "android_client_info": {
+          "package_name": "lorm.ipsum"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "366944877517-akfq769bhe1e91fc6r3rf9rbcnt5mms4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDP1uwF6Am_G8oIENBVbDbNVTSegSHJCZI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
